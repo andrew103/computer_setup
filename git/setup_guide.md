@@ -21,7 +21,3 @@ Add key to GitHub (filename could be different)
 ```
 cat ~/.ssh/id_ed25519.pub
 ```
-
-
-1) Go to https://github.com/settings/keys
-2)
