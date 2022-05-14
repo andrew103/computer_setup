@@ -13,6 +13,7 @@ echo $SHELL
 Install OhMyZSH
 ```
 sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+sudo apt install zsh-syntax-highlighting
 ```
 
 Copy `.zshrc` into home directory
